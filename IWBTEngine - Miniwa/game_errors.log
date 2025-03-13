@@ -1,8 +1,8 @@
 FATAL ERROR in
 action number 1
-of  Step Event
-for object init:
+of Collision Event with object player
+for object PlayerkillerSS:
 
-Unexisting room number: 121
+Unexisting room number: 0
 
 
