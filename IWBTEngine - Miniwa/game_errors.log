@@ -1,8 +1,8 @@
 FATAL ERROR in
 action number 1
-of  Step Event
-for object world:
+of Collision Event with object player
+for object PlayerkillerSS:
 
-Moving to next room after the last room.
+Unexisting room number: 0
 
 
