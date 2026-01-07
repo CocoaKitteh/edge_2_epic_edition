@@ -1,0 +1,12 @@
++00 init
+	|rInit
+	|rTitle
+	|rMenu
+	|rTest
+	|rBossTest
+|rm_tutorial
+|room121
+|room119
+|room122
+|rmPreBoss1
+|rmBoss1
