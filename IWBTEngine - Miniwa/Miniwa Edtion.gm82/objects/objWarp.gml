@@ -34,4 +34,10 @@ switch(room){
         player.y=256
         room=rmBoss1
         break;
+
+    case rmBoss1:
+        player.x=16
+        player.y=864
+        room=room125
+        break;
 }

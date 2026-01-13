@@ -39,6 +39,7 @@ applies_to=self
 */
 if hp<=0 {
     sound_play(sndEnemyHit)
+    instance_create(x+32,y+32,objWarp)
     instance_destroy()
 }
 #define Collision_bullet

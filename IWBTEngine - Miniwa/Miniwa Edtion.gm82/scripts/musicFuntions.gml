@@ -20,6 +20,7 @@ switch(room) {
     case room122:
     case rmPreBoss1:
     case rmBoss1:
+    case room125:
         if filePlaying != 3 {
         ss_StopSound(curMusic);
             filePlaying = 3;
