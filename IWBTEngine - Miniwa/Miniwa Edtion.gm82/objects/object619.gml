@@ -5,7 +5,7 @@ action_id=119
 applies_to=self
 invert=0
 arg0=path12
-arg1=3
+arg1=8
 arg2=1
 arg3=1
 */
@@ -22,7 +22,7 @@ lib_id=1
 action_id=603
 applies_to=self
 */
-action_create_object_motion(deliciousFruit,x,y,5,point_direction(x,y,player.x,player.y))
+action_create_object_motion(deliciousFruit,x,y,8,point_direction(x,y,player.x,player.y))
 alarm[0]=15
 #define Alarm_1
 /*"/*'/**//* YYD ACTION
@@ -39,7 +39,7 @@ applies_to=self
 */
 if hp<=0 {
     sound_play(sndEnemyHit)
-    instance_create(x+32,y+32,objWarp)
+    instance_create(32,544,objWarp)
     instance_destroy()
 }
 

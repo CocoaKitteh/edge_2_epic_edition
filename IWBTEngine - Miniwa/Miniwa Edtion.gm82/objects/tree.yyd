@@ -3,6 +3,7 @@
 	|blockDisappear
 	|blockInvis
 	|blockMove
+	|object618
 +option 
 	|Ladder
 	|jumpItem
@@ -26,6 +27,7 @@
 	|spikeLUp
 	|spikeLDown
 	|object617
+	|object619
 +savePoint
 	|savePointMedium
 	|savePoint
@@ -64,7 +66,6 @@
 	|camera
 	|GAMEOVER
 	|playerKiller
-	|tutorialtext
 +warp
 	|objWarp
 +boss

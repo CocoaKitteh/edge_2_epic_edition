@@ -7,7 +7,6 @@ switch(room) {
             ss_LoopSound(curMusic)
         }
         break;
-    case rm_tutorial:
     case room119:
         if filePlaying != 2 {
         ss_StopSound(curMusic);

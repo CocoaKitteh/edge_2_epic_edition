@@ -5,12 +5,6 @@ action_id=603
 applies_to=self
 */
 switch(room){
-    case rm_tutorial:
-        player.x=80+17
-        player.y=2208+23
-        room=room121
-        break;
-
     case room121:
         player.x=160
         player.y=1760
@@ -39,5 +33,11 @@ switch(room){
         player.x=16
         player.y=864
         room=room125
+        break;
+
+    case room125:
+        player.x=576
+        player.y=256
+        room=rmBoss1Evil
         break;
 }

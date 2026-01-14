@@ -28,7 +28,7 @@
 	|sprLvyL
 	|sprMChoose2
 	|sprMChoose
-	|spr_tutorialtext
+	|sprite423
 +player
 	|maskPlayer
 	|sprBlood
@@ -62,6 +62,7 @@
 		|sprBomb
 		|sprBoss1
 		|sprite422
+		|sprite424
 +triggers
 	|sprTrigger
 	|sprLaunch
