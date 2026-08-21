@@ -20,6 +20,7 @@ Sgameover = ss_LoadSound(working_directory+"\Musics\S001.ogg",1);
 Smain = ss_LoadSound(working_directory+"\Musics\S000.ogg",1);
 Sstage1 = ss_LoadSound(working_directory+"\Musics\S002.ogg",1);
 Srealstage1 = ss_LoadSound(working_directory+"\Musics\S003.ogg",1);
+Sstage2 = ss_LoadSound(working_directory+"\Musics\S004.ogg",1);
 
 //volume control º¼·ýÄÁÆ®·Ñ
 vol = 10000

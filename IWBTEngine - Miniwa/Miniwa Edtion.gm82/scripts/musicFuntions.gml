@@ -27,4 +27,12 @@ switch(room) {
             ss_LoopSound(curMusic)
         }
         break;
+    case room126:
+        if filePlaying != 4 {
+        ss_StopSound(curMusic);
+            filePlaying = 4;
+            curMusic = Sstage2;
+            ss_LoopSound(curMusic)
+        }
+        break;
 }

@@ -4,6 +4,7 @@
 	|tile03
 	|bacJumpThrough
 	|tlblueshit
+	|background64
 +background
 	|backgroundMiniwa
 	|backgroundMegaman4
@@ -15,3 +16,4 @@
 	|background59
 	|background60
 	|background61
+	|background63
